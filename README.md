@@ -1,10 +1,8 @@
 ## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-leal-95738233a/)
-<br>
 [![G-mail](https://img.shields.io/badge/gmail-ca2320?style=for-the-badge&logo=linkedin&logoColor=white)]() 
-[![G-mail](https://img.shields.io/badge/levyfleal@gmail.com-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bernardo-dos-reis-84205822b/) 
-
+![G-mail contact](https://img.shields.io/badge/levyfleal@gmail.com-ca2320?style=flat-square) 
 
 ## Tecnologias
 <div style=="display: inline_block">
